@@ -1,3 +1,6 @@
+/*Capturar N valores de tipo entero para almacenarlos en un arreglo y enviarlos a un método (procedimiento) para ordenarlos 
+en forma ascendente mediante algún algoritmo de ordenamiento de datos. Al final, imprimir el arreglo ordenado desde 
+el método principal Main()*/
 namespace p1
 {
     internal class Program
