@@ -1,3 +1,14 @@
+/*Calcular el promedio y la desviación estándar de un conjunto de N números ingresados por teclado y almacenados 
+en un arreglo unidimensional. La desviación estándar se calcula con la siguiente fórmula:
+                σ = √((1/(n-1))Σ(xᵢ - μ)²)
+Donde:
+σ es la desviación estándar.
+n es tamaño del arreglo
+x es Arreglo de tamaño N
+x_i Valor de la celda i del arreglo x
+μ es promedio de los dataos almacenados en el arreglo x
+N es el número total de datos.
+*/
 namespace ejercicio4
 {
     internal class Program
