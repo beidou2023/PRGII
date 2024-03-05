@@ -1,3 +1,10 @@
+/*Diseñe una aplicación que utilice un arreglo un dimensionalpara almacenar la temperatura de cada hora de un día en particular,
+lo envíe a métodos (funciones) que devuelvan lo siguiente:
+•	Promedio de temperatura deldía
+•	Número de celda con la temperarura más fria
+•	Número de celda con la temperatura más callenie
+•	Valor de la temperatura más fría
+•	Valor de la temperatura más caliente*/
 namespace ejercicio3
 {
     internal class Program
