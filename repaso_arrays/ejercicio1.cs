@@ -1,3 +1,6 @@
+/*Capture los datos numéricos enteros de un arreglo de N posiciones, el cual puede contener valores positivos y negativos. 
+Envíe estos datos a un método (procedimiento) que sustituya los números negativos por cero. 
+Al final, imprima el arreglo modificado desde el método principal Main().*/
 namespace ejercicio1
 {
     internal class Program
